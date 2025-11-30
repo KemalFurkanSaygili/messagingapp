@@ -1,0 +1,29 @@
+name: messaging_app
+description: A real-time messaging application with Firebase
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Firebase Core ve Database bağımlılıkları
+  firebase_core: ^3.6.0
+  firebase_database: ^11.1.4
+
+  # Güvenli erişim için eklenen Firebase Authentication
+  firebase_auth: ^5.1.0
+
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true

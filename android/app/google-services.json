@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1000862024380",
+    "firebase_url": "https://messagingapp-9832f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "messagingapp-9832f",
+    "storage_bucket": "messagingapp-9832f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000862024380:android:63cc33ef2ba79b292bc6b9",
+        "android_client_info": {
+          "package_name": "com.furkanbatu.messaging_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg2yshEQLkNz7GVsiMIaB7CJ4yh-rK2YY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
